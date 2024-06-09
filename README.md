@@ -6,3 +6,5 @@ Documentação para a criação da Impressora 3D baseada na Anet A8 de 150mm x 1
 
 ### Pinagem da minha montagem
 ![Minha Montagem](/Pinout1.png "Minha Montagem")
+
+Os motores precisarão ser invertidos quando trocar os drivers de DRV8825 para TMC2209
